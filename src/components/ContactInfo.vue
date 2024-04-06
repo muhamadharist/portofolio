@@ -38,13 +38,6 @@ const data = reactive([
         href: 'https://github.com/fordiquez',
         target: '_blank',
     },
-    {
-        icon: 'mdi-linkedin',
-        title: 'LinkedIn',
-        value: 'ruslan.tsiapko',
-        href: 'https://www.linkedin.com/in/ruslan-tsiapko-a41397241/',
-        target: '_blank',
-    },
 ]);
 </script>
 
