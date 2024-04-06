@@ -18,10 +18,10 @@ const data = reactive([
         target: null,
     },
     {
-        icon: 'mdi-message-text',
-        title: 'Telegram',
-        value: '@fordiquez',
-        href: 'https://t.me/fordiquez',
+        icon: 'mdi-instagram',
+        title: 'instagram',
+        value: '@muhamadharist__',
+        href: 'https://www.instagram.com/muhamadharist__?igsh=eGUxNHN1ems2OW5w',
         target: '_blank',
     },
     {
@@ -34,8 +34,8 @@ const data = reactive([
     {
         icon: 'mdi-github',
         title: 'GitHub',
-        value: 'fordiquez',
-        href: 'https://github.com/fordiquez',
+        value: 'muhamadharist',
+        href: 'https://github.com/muhamadharist',
         target: '_blank',
     },
 ]);
